@@ -1,0 +1,3 @@
+- **Website Scraping**: The data was ethically scraped from Forex Prop Reviews in compliance with their `robots.txt` file.
+- **API Usage**: We accessed the Blockchain API within allowed limits and avoided overloading their servers.
+- **Data Privacy**: No personal data is handled by this project.
